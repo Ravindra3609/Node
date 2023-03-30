@@ -1,0 +1,4 @@
+schema - define the str
+    schema - model
+    using model we do CRUD operations
+    
